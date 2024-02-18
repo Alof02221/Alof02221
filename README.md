@@ -13,7 +13,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://instagram.com /dogukan038" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt = "dogukan038" height = "30" genişlik = "40" /></a>
+<a href="https://www.instagram.com/dogukan038?igsh=MTRha3hkY254emt2cw==" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt = "dogukan038" height = "30" genişlik = "40" /></a>
 <a href = "https://discord.gg/_dogukan__" target = "blank"><img align = " center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "_dogukan__" height = "30" genişlik ="40" /></a>
 </p>
 
