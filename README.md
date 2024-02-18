@@ -3,7 +3,8 @@
 
 - 🔭 Şu anda [Basit Otel Rezervasyon Sistemi üzerinde çalışıyorum. ](https://github.com/Alof02221/sql-ile-otel-rezervasyon-program-)
 
-- 👨‍💻 Tüm projelerim [https://dogukandemirel.com.tr](https:// adresinde) mevcuttur. dogukandemirel.com.tr)
+- 👨‍💻 Tüm projelerim [https://dogukandemirel.com.tr]
+adresinde mevcuttur.
 
 - 📝 [https://dogukandemirel.com.tr](https://dogukandemirel.com.tr) sitesinde düzenli olarak yazılar yazıyorum
 
